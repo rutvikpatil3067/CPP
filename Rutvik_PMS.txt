@@ -1,0 +1,105 @@
+User Id = 
+password = 
+
+A) PERSONAL DETAILS 
+Name : PATIL RUTVIK VILAS
+Email :  rutvikvpatil.66@gmail.com
+	 rutvikpatil.3063@gmail.com
+CCPP Id : #########
+DOB : 29/03/2000
+Mob No.:   8530563067
+	   8600921276
+
+Skype Id : live:.cid.74806b16a1965261
+
+Current Add : Chal no. 13/124 Mendhi Farm Gokhale Nagar near vePune(M corp).
+
+Perm Add : nagav road A/P-Dhavali Tal-Walwa Dist-Sangli
+
+Nationality :India
+
+
+B) ACADEMIC DETAILS
+	
+	i) SSC
+		School: Rashtriya Jaltranpattu Sagar Patil Vidyalaya Dhavali
+		Board: Maharashtra State Board
+		Marks Obtained: 428
+		Total Marks: 500
+		Percentage: 85.60%
+		CGPA: -
+		Year Of Passing: March 2016
+		Stream: General
+	
+
+       ii) HSC
+		School : Vidyamandir High School And jr college Urun-Islampur
+		Board: Maharashtra State Board
+		Marks Obtained:403 
+		Total Marks:  	650
+		Percentage:  62.00%
+		Year Of Passing: Feb2018 
+		Stream: Science
+
+C) GRADUATION DETAILS
+
+	Qualification Level: Graduation
+	Qualification: B.Tech
+	Stream: Engineering
+	Specialization: 
+	University: SHIVAJI UNIVERSITY, KOLHAPUR
+	Institute:  Annasaheb Dange College of Engineering & Technology, Ashta.
+	Total Backlogs : 0
+	No. of Attempts: 1
+	Duration: 4
+	
+	Semest	 Obtained Total Marks.  Marks
+	Sem1 	   600       327       54.5
+	Sem2 	   600       289       48.17
+	Sem3	   600       430       71.7
+	Sem4 	   600       465       77.5
+	Sem5 	   600       388       64.7
+	Sem6 	   600       330       55
+	Sem7	   500       324       64.8
+	Sem8	   400       290       72.5
+		Percentage 63.20%
+	Year OF Passing: March 2023 
+	Year Of Admission: July 2019
+******************************************
+
+Qualification:- PG-DAC
+Project Title:- Clothify
+Duration:- 3months
+Platform used:- JAVA
+	Project Description:  The website aims to offer an easy-to-navigate platform that enhances user experience for both customer and admin.
+                             It focuses on simplicity so that user can efficiently browse services.	
+
+			   Technology used :- React Js, MySQL, Java, Spring boot, Hibernate.
+
+Qualification		:- Graduation
+Project Title 		:- Design and development of solid bar gripping mechanism for overhead crane.
+Duration 			:- 12 Months
+Platform used	 	:- Other -> Catia, Ansys, Excel.
+Project Description:		:
+Design and development of solid bar gripping mechanism for overhead crane 
+ And now we are working on our mega project which is titled as 'Design and Fabrication of Solid Bar Gripping Mechanism fot Overhead Crane'. In which we can lift the solid bar in the clamps from one location and drop it into another location with the help of only one worker. The leather belt is not required for that project. Our project can lift a minimum 50Kg weight and maximum 1200Kg weight easily
+
+
+**********************************
+
+Religion 			:- Hindu
+Regional Languages 		:- English, Marathi, Hindi
+Foreign Languages		:- N/A
+Passport No.		:- N/A
+Caste Category 		:- General
+Sub-Caste:-                 Maratha
+Hobbies			:- Trekking, swimming.
+Extra-Curicular Activ 		:- ___________
+Other Information		:- Internship at VP Enterprises - 2023 - 2month.
+			   
+				
+Preferneces 		:- All
+
+*********************************
+
+
